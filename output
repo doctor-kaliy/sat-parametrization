@@ -1,0 +1,410 @@
+250 benchmarks:
+
+sharing-is-caring/bench_70_96.smt2
+sharing-is-caring/bench_80_96.smt2
+sharing-is-caring/bench_80_64.smt2
+sharing-is-caring/bench_70_64.smt2
+sharing-is-caring/bench_50_128.smt2
+sharing-is-caring/bench_60_96.smt2
+sharing-is-caring/bench_100_64.smt2
+sharing-is-caring/bench_60_64.smt2
+sharing-is-caring/bench_40_128.smt2
+sharing-is-caring/bench_50_96.smt2
+sharing-is-caring/bench_30_128.smt2
+sharing-is-caring/bench_90_64.smt2
+stp/cksumcookie_20-ite.stp.smt2
+platania/no_init_multi_delete/no_init_multi_delete5.smt2
+platania/prim/Prim_9.c.smt2
+platania/prim/Prim_8.c.smt2
+platania/bellford/bf23.c.smt2
+platania/strcmp/strcmp37.c.smt2
+platania/copy_array/copy_array51.c.smt2
+platania/no_init_simple_member/no_init_simple_member217.smt2
+platania/no_init_simple_member/no_init_simple_member187.smt2
+platania/no_init_simple_member/no_init_simple_member177.smt2
+platania/no_init_simple_member/no_init_simple_member237.smt2
+platania/no_init_simple_member/no_init_simple_member197.smt2
+platania/bubble_sort/bubble_sort30.c.smt2
+platania/bubble_sort/bubble_sort26.c.smt2
+platania/bubble_sort/bubble_sort28.c.smt2
+platania/no_init_simple_delete/no_init_simple_delete25.smt2
+platania/no_init_multi_member/no_init_multi_member6.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_tail.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_dwp_nl.optimize_subexps.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_mv.buffer_lcm.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_pr.bkm_scale.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_fse-bfs_sha512sum.sha384_init_ctx.il.fse-bfs.smt2
+dwp_formulas/try4_difret_functions_disjunctions_sha512sum.sha512_init_ctx.il.disjunctions_0.smt2
+dwp_formulas/try3_sameret_functions_dwp_hostid.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_dwp_ptx.compare_words.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_fse-bfs_vdir.rev_xstrcoll_ctime.il.fse-bfs.smt2
+dwp_formulas/try3_true_functions_dwp_chgrp.hash_get_max_bucket_length.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_vdir.rev_xstrcoll_ctime.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_uniq.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_basename.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_chgrp.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_nl.peek_token_bracket.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_vdir.strmode.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_shuf.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_dwp_md5sum.md5_read_ctx.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_wp_chgrp.set_char_quoting.il.wp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_csplit.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_wp_vdir.rev_strcmp_atime.il.wp.smt2
+dwp_formulas/try5_small_true_functions_flanagansaxe_base64.base64_encode.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_dwp_base64.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_join.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_nl.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_kill.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_csplit.re_string_translate_buffer.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_fse-bfs_tsort.scan_zeros.il.fse-bfs.smt2
+dwp_formulas/try5_small_noof_functions_fse-bfs_expr.optimize_subexps.il.fse-bfs.smt2
+dwp_formulas/try4_difret_functions_disjunctions_fmt.set_other_indent.il.disjunctions_8.smt2
+dwp_formulas/try5_small_noof_functions_dwp_expr.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_fse-bfs_vdir.bkm_scale.il.fse-bfs.smt2
+dwp_formulas/try5_small_difret_functions_fse-bfs_sha512sum.sha384_init_ctx.il.fse-bfs.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_ptx.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_dwp_vdir.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_link.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_tac.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_od.get_lcm.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_split.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try4_difret_functions_disjunctions_cat.next_line_num.il.disjunctions_2.smt2
+dwp_formulas/try5_small_difret_functions_fse-bfs_sha512sum.sha512_init_ctx.il.fse-bfs.smt2
+dwp_formulas/try4_difret_functions_disjunctions_pr.reset_status.il.disjunctions_1.smt2
+dwp_formulas/try3_noof_functions_dwp_vdir.rev_xstrcoll_atime.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_printf.close_stdout_set_file_name.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_vdir.xstrcoll_atime.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_mv.hash_get_max_bucket_length.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_vdir.set_exit_status.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_fse-bfs_vdir.hash_table_ok.il.fse-bfs.smt2
+dwp_formulas/try3_sameret_functions_dwp_uname.set_char_quoting.il.dwp.smt2
+dwp_formulas/try4_true_functions_dwp_chgrp.hash_get_max_bucket_length.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_vdir.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_flanagansaxe_vdir.hash_get_entries.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_nice.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_mv.hash_get_entries.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_stty.set_char_quoting.il.dwp.smt2
+dwp_formulas/try4_difret_functions_disjunctions_tsort.scan_zeros.il.disjunctions_2.smt2
+dwp_formulas/try5_small_difret_functions_dwp_seq.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_fse-bfs_chgrp.i_ring_push.il.fse-bfs.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_tac.peek_token_bracket.il.flanagansaxe.smt2
+dwp_formulas/try3_noof_functions_dwp_vdir.hash_table_ok.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_fse-bfs_vdir.xstrcoll_mtime.il.fse-bfs.smt2
+dwp_formulas/try3_sameret_functions_dwp_expr.calc_next.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_dwp_od.get_lcm.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_vdir.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_expr.optimize_subexps.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_fse-bfs_pr.reset_status.il.fse-bfs.smt2
+dwp_formulas/try3_sameret_functions_dwp_whoami.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_nl.re_string_construct_common.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_vdir.hash_get_max_bucket_length.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_nl.re_string_translate_buffer.il.flanagansaxe.smt2
+dwp_formulas/try3_noof_functions_dwp_tr.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_tail.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_dwp_tail.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_chgrp.hash_get_entries.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_fmt.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try3_true_functions_dwp_ptx.calc_next.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_fold.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_true_functions_dwp_vdir.strcmp_mtime.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_join.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_dwp_csplit.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_mv.hash_get_entries.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_nl.bkm_scale.il.dwp.smt2
+dwp_formulas/try4_difret_functions_disjunctions_sha512sum.sha384_init_ctx.il.disjunctions_0.smt2
+dwp_formulas/try5_small_noof_functions_fse-bfs_vdir.xstrcoll_mtime.il.fse-bfs.smt2
+dwp_formulas/try5_small_noof_functions_wp_join.bkm_scale.il.wp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_vdir.strcmp_atime.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_sha1sum.sha1_read_ctx.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_fse-bfs_vdir.xstrcoll_size.il.fse-bfs.smt2
+dwp_formulas/try3_noof_functions_dwp_vdir.rev_strcmp_atime.il.dwp.smt2
+dwp_formulas/try3_true_functions_dwp_vdir.strcmp_mtime.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_sync.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_hostid.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_tac.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_wp_vdir.rev_xstrcoll_size.il.wp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_uniq.bkm_scale.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_sha512sum.sha384_init_ctx.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_vdir.sighandler.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_od.get_lcm.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_nl.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_wp_pr.reset_status.il.wp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_expr.optimize_subexps.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_su.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_pinky.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_pr.cols_ready_to_print.il.dwp.smt2
+dwp_formulas/try3_true_functions_dwp_od.get_lcm.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_wp_mkfifo.set_char_quoting.il.wp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_vdir.hash_get_entries.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_chgrp.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try3_noof_functions_dwp_ptx.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_dwp_vdir.rev_xstrcoll_size.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_printf.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_sha512sum.sha384_init_ctx.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_stty.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_chgrp.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_base64.base64_encode.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_base64.base64_encode.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_ptx.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_vdir.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_tac.optimize_subexps.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_sha1sum.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_expr.peek_token_bracket.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_wp_dirname.set_char_quoting.il.wp.smt2
+dwp_formulas/try3_sameret_functions_dwp_ptx.compare_words.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_wp_od.simple_strtoul.il.wp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_vdir.sighandler.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_fse-bfs_vdir.xstrcoll_atime.il.fse-bfs.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_chgrp.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try3_noof_functions_dwp_expr.find_subexp_node.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_fse-bfs_sha512sum.sha512_init_ctx.il.fse-bfs.smt2
+dwp_formulas/try5_small_noof_functions_dwp_vdir.rev_strcmp_size.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_chgrp.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_dwp_vdir.rev_strcmp_mtime.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_wp_vdir.set_char_quoting.il.wp.smt2
+dwp_formulas/try3_sameret_functions_dwp_uniq.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_join.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_vdir.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_flanagansaxe_mknod.mode_adjust.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_uniq.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_dwp_pr.bkm_scale.il.dwp.smt2
+dwp_formulas/try4_true_functions_dwp_nl.find_subexp_node.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_nl.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_fmt.bkm_scale.il.dwp.smt2
+dwp_formulas/try4_difret_functions_disjunctions_dd.advance_input_offset.il.disjunctions_0.smt2
+dwp_formulas/try3_noof_functions_dwp_tac.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_chgrp.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_ptx.set_char_quoting.il.flanagansaxe.smt2
+dwp_formulas/try4_true_functions_dwp_cut.hash_get_entries.il.dwp.smt2
+dwp_formulas/try4_true_functions_dwp_chgrp.hash_get_entries.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_wp_cut.hash_get_entries.il.wp.smt2
+dwp_formulas/try3_sameret_functions_dwp_head.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_fse-bfs_cat.next_line_num.il.fse-bfs.smt2
+dwp_formulas/try5_small_true_functions_dwp_vdir.rev_strcmp_ctime.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_ptx.mark_opt_subexp.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_csplit.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_fold.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_chroot.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_vdir.rev_strcmp_mtime.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_cut.hash_get_max_bucket_length.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_basename.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_vdir.rev_xstrcoll_mtime.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_dwp_vdir.xstrcoll_ctime.il.dwp.smt2
+dwp_formulas/try3_true_functions_dwp_vdir.strcmp_atime.il.dwp.smt2
+dwp_formulas/try3_true_functions_dwp_tac.re_string_translate_buffer.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_fmt.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_dwp_vdir.rev_xstrcoll_ctime.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_cut.hash_get_max_bucket_length.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_dwp_vdir.strcmp_atime.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_wp_nl.bkm_scale.il.wp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_uniq.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_fse-bfs_pr.bkm_scale.il.fse-bfs.smt2
+dwp_formulas/try5_small_noof_functions_dwp_nl.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_csplit.bkm_scale.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_readlink.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_ln.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_chroot.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_sha512sum.sha512_init_ctx.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_ptx.calc_next.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_wp_vdir.initialize_ordering_vector.il.wp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_nl.mark_opt_subexp.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_vdir.hash_get_entries.il.dwp.smt2
+dwp_formulas/try4_true_functions_dwp_csplit.find_subexp_node.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_chroot.set_char_quoting.il.dwp.smt2
+dwp_formulas/try4_true_functions_dwp_expr.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_ptx.compare_words.il.flanagansaxe.smt2
+dwp_formulas/try5_small_noof_functions_dwp_split.bkm_scale.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_flanagansaxe_ptx.peek_token_bracket.il.flanagansaxe.smt2
+dwp_formulas/try3_true_functions_dwp_vdir.xstrcoll_ctime.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_fse-bfs_tac.re_node_set_contains.il.fse-bfs.smt2
+dwp_formulas/try5_small_true_functions_dwp_vdir.xstrcoll_atime.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_base64.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_nl.re_node_set_remove_at.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_md5sum.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_wp_cat.next_line_num.il.wp.smt2
+dwp_formulas/try3_sameret_functions_dwp_printenv.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_pr.cols_ready_to_print.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_ptx.optimize_subexps.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_dwp_tee.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_vdir.get_type_indicator.il.flanagansaxe.smt2
+dwp_formulas/try3_true_functions_dwp_chgrp.hash_get_entries.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_pr.bkm_scale.il.dwp.smt2
+dwp_formulas/try4_true_functions_dwp_expr.find_subexp_node.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_unlink.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_csplit.re_node_set_contains.il.dwp.smt2
+dwp_formulas/try4_difret_functions_disjunctions_pr.hold_file.il.disjunctions_1.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_ptx.optimize_subexps.il.flanagansaxe.smt2
+dwp_formulas/try3_sameret_functions_dwp_logname.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_flanagansaxe_vdir.hash_get_entries.il.flanagansaxe.smt2
+dwp_formulas/try5_small_difret_functions_dwp_nohup.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_sameret_functions_dwp_pinky.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_cut.hash_get_entries.il.dwp.smt2
+dwp_formulas/try5_small_difret_functions_wp_sha512sum.sha512_init_ctx.il.wp.smt2
+dwp_formulas/try3_sameret_functions_fse-bfs_vdir.rev_xstrcoll_ctime.il.fse-bfs.smt2
+dwp_formulas/try5_small_noof_functions_dwp_vdir.rev_xstrcoll_atime.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_fse-bfs_pr.reset_status.il.fse-bfs.smt2
+dwp_formulas/try5_small_noof_functions_dwp_env.set_char_quoting.il.dwp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_sha512sum.set_char_quoting.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_csplit.bkm_scale.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_expr.search_cur_bkref_entry.il.dwp.smt2
+dwp_formulas/try5_small_true_functions_wp_vdir.hash_get_entries.il.wp.smt2
+dwp_formulas/try5_small_noof_functions_dwp_cat.next_line_num.il.dwp.smt2
+dwp_formulas/try3_noof_functions_dwp_expr.re_node_set_remove_at.il.dwp.smt2
+
+seed: 209652396
+
+params:
+sat.abce False
+sat.acce True
+sat.anf False
+sat.anf.exlin True
+sat.asymm_branch False
+sat.asymm_branch.all False
+sat.asymm_branch.sampled True
+sat.ate False
+sat.backtrack.conflicts 350473915
+sat.backtrack.scopes 660981875
+sat.bca True
+sat.bce True
+sat.burst_search 199285846
+sat.cardinality.solver True
+sat.core.minimize False
+sat.core.minimize_partial True
+sat.cut False
+sat.cut.aig False
+sat.cut.dont_cares False
+sat.cut.force True
+sat.cut.lut False
+sat.cut.npn3 False
+sat.cut.redundancies False
+sat.cut.xor False
+sat.dyn_sub_res True
+sat.elim_vars True
+sat.elim_vars_bdd False
+sat.enable_pre_simplify False
+sat.local_search False
+sat.lookahead.cube.depth 529735924
+sat.lookahead.double True
+sat.lookahead.global_autarky True
+sat.minimize_lemmas True
+sat.override_incremental False
+sat.prob_search True
+sat.probing True
+sat.probing_binary False
+sat.probing_cache True
+sat.probing_cache_limit 685904883
+sat.probing_limit 690894744
+sat.propagate.prefetch False
+sat.retain_blocked_clauses False
+sat.search.sat.conflicts 699964280
+sat.search.unsat.conflicts 159937159
+sat.simplify.delay 244043261
+sat.subsumption True
+sat.subsumption.limit 553540995
+sat.variable_decay 25921185
+time: 38.59125566482544
+
+params:
+sat.abce True
+sat.acce True
+sat.anf False
+sat.anf.exlin False
+sat.asymm_branch False
+sat.asymm_branch.all False
+sat.asymm_branch.sampled False
+sat.ate False
+sat.backtrack.conflicts 699643731
+sat.backtrack.scopes 301890157
+sat.bca False
+sat.bce True
+sat.burst_search 699870232
+sat.cardinality.solver False
+sat.core.minimize True
+sat.core.minimize_partial False
+sat.cut False
+sat.cut.aig False
+sat.cut.dont_cares False
+sat.cut.force False
+sat.cut.lut False
+sat.cut.npn3 True
+sat.cut.redundancies True
+sat.cut.xor True
+sat.dyn_sub_res False
+sat.elim_vars False
+sat.elim_vars_bdd False
+sat.enable_pre_simplify False
+sat.local_search False
+sat.lookahead.cube.depth 303230788
+sat.lookahead.double True
+sat.lookahead.global_autarky True
+sat.minimize_lemmas True
+sat.override_incremental True
+sat.prob_search False
+sat.probing True
+sat.probing_binary True
+sat.probing_cache True
+sat.probing_cache_limit 134503474
+sat.probing_limit 408908425
+sat.propagate.prefetch True
+sat.retain_blocked_clauses False
+sat.search.sat.conflicts 31428060
+sat.search.unsat.conflicts 534236950
+sat.simplify.delay 521985791
+sat.subsumption True
+sat.subsumption.limit 212191715
+sat.variable_decay 460473620
+time: 34.776977729797366
+
+default params:
+sat.abce False
+sat.acce False
+sat.anf False
+sat.anf.exlin False
+sat.asymm_branch True
+sat.asymm_branch.all False
+sat.asymm_branch.sampled True
+sat.ate True
+sat.backtrack.conflicts 4000
+sat.backtrack.scopes 100
+sat.bca False
+sat.bce False
+sat.burst_search 100
+sat.cardinality.solver True
+sat.core.minimize False
+sat.core.minimize_partial False
+sat.cut False
+sat.cut.aig False
+sat.cut.dont_cares True
+sat.cut.force False
+sat.cut.lut False
+sat.cut.npn3 True
+sat.cut.redundancies True
+sat.cut.xor False
+sat.dyn_sub_res True
+sat.elim_vars True
+sat.elim_vars_bdd True
+sat.enable_pre_simplify False
+sat.local_search False
+sat.lookahead.cube.depth 1
+sat.lookahead.double True
+sat.lookahead.global_autarky False
+sat.minimize_lemmas True
+sat.override_incremental False
+sat.prob_search False
+sat.probing True
+sat.probing_binary True
+sat.probing_cache True
+sat.probing_cache_limit 1024
+sat.probing_limit 5000000
+sat.propagate.prefetch True
+sat.retain_blocked_clauses True
+sat.search.sat.conflicts 400
+sat.search.unsat.conflicts 400
+sat.simplify.delay 0
+sat.subsumption True
+sat.subsumption.limit 100000000
+sat.variable_decay 110
+time: 52.58390626907349
+
+
+time: [38.59125566482544, 34.776977729797366, 52.58390626907349]
